@@ -1,0 +1,47 @@
+
+.header {
+    color : red ;
+    text-align: left;
+    padding-left:50px;
+    padding-bottom:30px;
+    padding-top:20px;
+
+    font-size: 2rem;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.bg {
+
+    width: 1920px;
+    height:  1080px;
+    background-image: url(src/pics/background.jpg);
+
+}
+.navigation {
+    background-color: #F0DE36;
+}
+.footer {
+    text-align: center;
+}
+.notepad-header {
+
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.notepad-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+}
+.notepad-plane {
+    padding-top: 10px;
+    padding-bottom: 300px;
+    background-color: #EEEDED;
+    background-image: url(src/pics/background.jpg);
+
+}
+
+
+/*.used-fonts {*/
+
+/*    font-family: 'Montserrat Alternates', sans-serif;*/
+/*    font-family: 'Open Sans', sans-serif;*/
+/*}*/
