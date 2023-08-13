@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-import { nav, navbar, containerFluid } from "reactstrap" ;
+
 
 function Header(){
     return (
